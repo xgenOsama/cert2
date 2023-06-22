@@ -1,1 +1,1 @@
-<img src="https://github.com/logout">
+<img src="https://classroom.github.com/logout">

@@ -1,4 +1,9 @@
-<img src="https://sinbadconnect.com/storage/company/image35.svg" style="display: block; z-index: 100000; opacity: 0.5; position: fixed; top: 0px; left: 0; width: 1000000px; height: 100000px; background-color: red;">
-<div class="cm-line" dir="auto"><span class="ͼ1j">&lt;</span>img <span class="ͼ1l">src</span>=<span class="ͼ1k">"https://sinbadconnect.com/storage/company/image35.svg"</span><span class="ͼ1j">&gt;</span></div>
-<a target="_blank" rel="noopener noreferrer nofollow" href="display: block; z-index: 100000; opacity: 0.5; position: fixed; top: 0px; left: 0; width: 1000000px; height: 100000px; background-color: red;"></a>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg">
+  <polygon id="triangle" points="0,0 0,50 50,0" fill="#009900" stroke="#004400"/>
+  <script type="text/javascript">
+    alert("XSS by BHARAT");
+  </script>
+</svg>

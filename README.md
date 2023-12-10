@@ -39,3 +39,6 @@ data:text/html,%3Cscript%3Ealert%28%27hi%27%29%3B%3C%2Fscript%3E
 
 
 https://shell.cloud.google.com/?walkthrough_tutorial_url=https%3A%2F%2Fraw.githubusercontent.com%2Fgolang%2Ftour%2Fmaster%2Ftutorial%2Fweb-service-gin.md&pli=1&show=ide&environment_deployment=ide
+
+
+<div class="pdf-container loaded" data-file="https://raw.githubusercontent.com/xgenOsama/cert2/e9a36f0a35aa2f168c0511912b35f987b3b5c1c4/OsamaMohamedEbrahim_Elshahat_Resume+(1).pdf" data-bcmap-dir="//viewscreen.githubusercontent.com/static/pdf" data-pdf-worker-js-path="/static/assets/pdf.worker-eca19923bb6ea985ecd4.js"><canvas class="pdf-page" data-page="0" height="2830" width="2000"></canvas><canvas class="pdf-page" data-page="1" height="2830" width="2000"></canvas><canvas class="pdf-page" data-page="2" height="2830" width="2000"></canvas><canvas class="pdf-page" data-page="3" height="2830" width="2000"></canvas></div>

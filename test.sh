@@ -1,3 +1,4 @@
+set -o xtrace
 HEADER="Metadata:true"
 URL="http://169.254.169.254/metadata"
 API_VERSION="2021-12-13" #https://learn.microsoft.com/en-us/azure/virtual-machines/instance-metadata-service?tabs=linux#supported-api-versions

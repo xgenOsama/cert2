@@ -1,3 +1,6 @@
+<!--[if gte IE 4]>
+<SCRIPT>alert('XSS');</SCRIPT>
+<![endif]-->
 <div itemprop=3D"about" itemscope=
 =3D"" itemtype=3D"http://schema.org/CreativeWork"><span itemprop=3D"potenti=
 alAction" itemscope=3D"" itemtype=3D"http://schema.org/ViewAction"><meta it=

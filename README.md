@@ -5,7 +5,7 @@ emprop=3D"url" content=3D"https://issuetracker.google.com/issues/316401085"=
 ><meta itemprop=3D"name" content=3D"Open bug"></span><br><strong>Reference =
 Info: 316401085 Clickbait that trick users to open youtube videos different=
  of the url looks like to be </strong><br></div><span style=3D"color: #8080=
-80;">component: =C2=A0</span><a href=3D"https://issuetracker.google.com/com=
+80;">component: =C2=A0</span><a href="https://issuetracker.google.com/com=
 ponents/889286" target=3D"_blank">889286</a><br><span style=3D"color: #8080=
 80;">status: =C2=A0</span>Intended Behavior<br><span style=3D"color: #80808=
 0;">reporter: =C2=A0</span>xgen.osama@gmail.com<br><span style=3D"color: #8=
